@@ -33,9 +33,10 @@ a {
 }
 
 p {
-  font-family: georgia;
+  font-family: georgia, serif;
 }
 
 img {
     width: 200px;
+    border: solid;
 }
