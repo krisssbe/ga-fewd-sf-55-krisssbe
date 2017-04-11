@@ -1,0 +1,42 @@
+section{
+  font: sans-serif;
+}
+
+header{
+  background: url(images/header_bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+h1{
+  color: white;
+  padding-left: 60px;
+  font-size: 24x;
+  font-weight: 800;
+  position:
+}
+
+p{
+  text-align: center;
+  font-size: 24x;
+  font-weight: 600;
+}
+
+h2{
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center-left;
+  padding-left: 20px;
+}
+
+li{
+  font-size: 13x;
+  font-weight: 300;
+  text-align: center-left;
+}
+
+h3{
+  color: #f9e42e;
+  text-align: center;
+}
