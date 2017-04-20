@@ -29,40 +29,34 @@ li {
   color: white;
   display: inline;
 }
-
 .bold{
   font-weight: bold;
 }
-
 .line1 {
   color: green;
   height: 10px;
 }
-
 .second{
   background-color: grey;
   height: 50px;
   text-align: center;
 }
-
 .taste{
   color: #D3D3D3;
   text-decoration: line-through;
 }
-
 .are {
   text-decoration: underline;
   -moz-text-decoration-color: yellow; /* Code for Firefox */
   text-decoration-color: yellow;
 }
-
-.meh{
-  width: 33%;
-  position: relative;
-  height:300px;
+.container {
+  border: 1px solid #DDDDDD;
+  width: 200px;
+  height: 200px;
+  float: right;
 }
-
-main {
+.floatsection{
   width: 33%;
   position: relative;
   height:300px;
