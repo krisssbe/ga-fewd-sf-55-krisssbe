@@ -1,0 +1,73 @@
+
+body{
+  border: 3px grey;
+  min-height: 60px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+header{
+  background-color: black;
+}
+
+h1{
+  color: yellow;
+}
+
+ul{
+  text-align: right; 
+  margin-right: 10px;
+}
+
+li {
+  color: white;
+  display: inline;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.line1 {
+  color: green;
+  height: 10px;
+}
+
+.second{
+  background-color: grey;
+  height: 50px;
+  text-align: center;
+}
+
+.taste{
+  color: #D3D3D3;
+  text-decoration: line-through;
+}
+
+.are {
+  text-decoration: underline;
+  -moz-text-decoration-color: yellow; /* Code for Firefox */
+  text-decoration-color: yellow;
+}
+
+.meh{
+  width: 33%;
+  position: relative;
+  height:300px;
+}
+
+main {
+  width: 33%;
+  position: relative;
+  height:300px;
+}
+
+
+footer{
+  font-size: 14px;
+  background: #000000;
+  color: #FFFFFF;
+  height: 30px;
+  padding: 2px 0px 10px 15px;
+}
