@@ -1,0 +1,17 @@
+/* Set box-sizing to border-box for all elements */
+html {
+  box-sizing: border-box;
+}
+/* Play nicely with other components */
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+header{
+  background-image: url("worldmap_paint.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: auto;
+  font-style: sans-serif;
+  color: white;
+}
