@@ -8,10 +8,8 @@ html {
 }
 
 header{
-  background-image: url("worldmap_paint.png");
+  background-image: url("worldmap.png");
   background-repeat: no-repeat;
   background-size: cover;
   overflow: auto;
-  font-style: sans-serif;
-  color: white;
 }
