@@ -8,8 +8,13 @@ html {
 }
 
 header{
-  background-image: url("worldmap.png");
   background-repeat: no-repeat;
-  background-size: cover;
   overflow: auto;
 }
+
+body {
+  background-image: url("paintedmap.png");
+  background-repeat: no-repeat;
+  overflow: auto;
+}
+
