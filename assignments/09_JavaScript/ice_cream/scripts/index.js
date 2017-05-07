@@ -1,29 +1,26 @@
-// Define a function makeCone.
-// It should accept two parameters, flavor and numberScoops.
-// The function should take the parameters and log the following to the console: “Coming right up! 
-//One {flavor} ice cream cone with {numberScoops} scoops.”
 
-console.log(‘Get ready for some ice-cream!‘);
+console.log('Get ready for some ice-cream!');
 
 //make Cone function definition
 var makeCone = function (flavor, numberScoops) {
-  console.log('Coming right up!')
-  console.log('Flavor: ' + flavor);
-  console.log('Scoops: ' + numberScoops)
+  console.log('Coming right up! ' + numberScoops + ' scoops of ' + flavor + ' ice cream cone with ')
+} 
+
+var makeCone = function (flavor, numberScoops) {
+  console.log('Coming right up! ' + numberScoops + ' scoops of ' + flavor + ' ice cream cone with ')
 } 
 
 //make Cone function call
 makeCone('chocolate', 3);
 
 
-// Hint: You’ll want to use string concatenation (+) to combine the variables with the human-readable text when logging the message to the console.
+var flavor
+var numScoops
 
-// Now, call that function, passing in “chocolate” and 3 as the arguments.
+on click flavor 
+  set flavor
+on click numScoops
+  set numScoops
 
-// You should see the following messages:
-
-// “Coming right up!”
-// “Flavor: chocolate”
-// “Scoops: 3”
-
-
+find order details placeholder
+update uts contents with flavor + numScoops

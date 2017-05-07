@@ -45,86 +45,16 @@ a{
   margin-left: 1em;
 }
 
-.background{
-  background-image: url("images/hands.png");
-  background-position: center;
-  background-repeat: no-repeat;
-  opacity: 0.8;
-  padding: 100px;
-}
-
-.statement{
-  font-family: sans-serif;
-  text-align: left;
-  font-size: 30px;
-}
-
-.match{
-  font-family: sans-serif;
-  text-align: right;
-  font-size: 30px;
-}
-
-.vision{
-  padding: 150px 150px;
-  font-family: sans-serif;
-  font-size: 18px;
-  border-top: 15px solid #F5F5F5;
-  border-bottom: 15px solid #F5F5F5;
-}
-
-.wrapper{
-  overflow: auto;
+.volunteers{
   background-image: url("images/kind.png");
   background-repeat: no-repeat;
   background-size: cover;
-  opacity: 0.6;
   padding: 250px 0;
-}
-
-h2{
-  font-size: bold;
-  font-size: 30px;
-}
-
-.lowerp {
-  padding: 0 30px 0 0;
-  font-size: 22px;
-}
-
-.floatsection{
-  width: 50%;
-  float: left;
+  opacity: 0.6;
   font-family: sans-serif;
+  color: black;
+  font: 30px;
   letter-spacing: 1px;  
-  padding: 0 50px 0 50px;
-}
-
-.buttonfloatsection {
-  font-weight: bold;
-  font-family: sans-serif;
-  font-size: 18px;
-  letter-spacing: 1px;
-  background-color: #C6C6C6;
-  border: none;
-  text-align: center;
-  padding: 12px;
-  border-radius: 5px;
-  box-shadow: inset 0 -3px 0 rgba(0,0,0,.2);
-}
-
-.socialimpact{
-  font: 30px bold;
-  font-family: sans-serif;
-  padding: 150px 150px;
-  text-align: center;
-  color: #2F4F4F;
-  border-bottom: 15px solid #F5F5F5;
-  border-top: 15px solid #F5F5F5;
-}
-
-.carousel{
-  padding: 300px;
 }
 
 footer{  
@@ -157,4 +87,3 @@ h4{
   display: inline;
   clear: both;
 }
-
