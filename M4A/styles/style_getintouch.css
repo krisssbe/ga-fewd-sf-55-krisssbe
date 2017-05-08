@@ -46,38 +46,8 @@ a{
   margin-left: 1em;
 }
 
-.background{
-  background-image: url("images/hands.png");
-  background-position: center;
-  background-repeat: no-repeat;
-  opacity: 0.8;
-  padding: 0 50px 50px 50px;
-}
-
-.statement{
-  font-family: sans-serif;
-  text-align: left;
-  font-size: 30px;
-  color: #2F4F4F;
-}
-
-.plus{
-  font-family: sans-serif;
-  text-align: left;
-  font-size: 30px;
-  font-weight: bold; 
-  padding: 0 70px;
-  color: #2F4F4F;
-} 
-
-.match{
-  font-family: sans-serif;
-  text-align: right;
-  font-size: 30px;
-}
-
-.ourvision{
-  padding: 50px;
+.getintouch{
+  padding: 200px;
   font-family: sans-serif;
   letter-spacing: 1px;  
 }
